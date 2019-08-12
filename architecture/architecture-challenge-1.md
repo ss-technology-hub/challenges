@@ -173,8 +173,10 @@ Una vez descrito brevemente el contexto y conocida la estrategia de la compañí
   - CI/CD
 
   - Metodología
+  
+  - Roadmap: ¿cómo sería el roadmap de mejoras/cambios/etc propuestos para la organización de forma que no se pierda capacidad de Negocio?
 
-  - ..
+  - ...
 
   - ...
 
@@ -183,12 +185,6 @@ Una vez descrito brevemente el contexto y conocida la estrategia de la compañí
 - **Implementación**
 
   Como buen Arquitecto de Soluciones será necesario que lideres el proceso de transformación tecnológica mediante labores de desarrollo y de establecimiento de buenas prácticas. Por ello te pedimos que codifiques una sencilla PoC end-to-end, en la que aplicar algunos de los principios de la arquitectura. 
-
-  
-
-  Lo puedes implementar en el lenguaje o lenguajes que más te gusten y debe contener instrucciones precisas para su "puesta en marcha" ya que será probada y analizada por nosotros.
-
-  
 
   El MVP debe contener cómo mínimo:
 
