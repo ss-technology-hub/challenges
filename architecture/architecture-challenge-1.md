@@ -180,7 +180,7 @@ Una vez descrito brevemente el contexto y conocida la estrategia de la compañí
 
   - ...
 
-    
+ Añade los puntos que consideres oportunos.    
 
 - **Implementación**
 
@@ -191,9 +191,9 @@ Una vez descrito brevemente el contexto y conocida la estrategia de la compañí
   - Una aplicación frontal en la que exista una vista que muestre un listado de pólizas. Al hacer click en una de ellas se mostrará su detalle en una vista nueva. El detalle contendrá datos relativos a la propia póliza (producto, prima,...,etc), datos del tomador (nombre, apellidos, teléfono y email) y datos del vehículo asegurado. En esa vista de detalle se permitirá únicamente la edición de los datos del tomador, persistiendo los cambios en base de datos.
   - Servicios que den soporte a la vistas y las operaciones necesarias
 
-  
-
   Extras opcionales:
 
   - Autenticación y seguridad
   - CI/CD
+  
+  Al igual que en el primer apartado, no es necesario que la aplicación front tenga unos estilos muy trabajados. No dediques mucho esfuerzo a ello.
